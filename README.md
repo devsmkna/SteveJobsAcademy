@@ -5,7 +5,7 @@ Steve Jobs Academy git repository
 
 ## Python
 
-### Laboratory on Strings and List in Python
+### PY-STRING-ES1: Laboratory on Strings and List in Python
 1. Write a function that counts the NOT vowels in a string;
 2. Write a function that given a long string (a text) counts the words in it;
 3. Write a function that given a long string (a text) computes the frequencies of the vowels in it;

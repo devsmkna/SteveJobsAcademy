@@ -1,6 +1,8 @@
 # SteveJobsAcademy
 Steve Jobs Academy git repository
 
+*NB: Ricordatevi di usare le brench prima di iniziare a lavorare, non lavorate sul main*
+
 # Esercizi
 
 ## Python

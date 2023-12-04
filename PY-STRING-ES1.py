@@ -109,3 +109,4 @@ def fromSecondsToDHMS(number) :
     minutes = number // 60
     number -= minutes * 60
     return f"{days} Day/s - {hours}hh:{minutes}mm:{number}ss"
+

@@ -36,3 +36,4 @@ def multi_list(l):
         [x for x in l if isinstance(x, (int, float, complex)) and not isinstance(x, bool)],
         [x for x in l if isinstance(x, bool)]
     ]
+
